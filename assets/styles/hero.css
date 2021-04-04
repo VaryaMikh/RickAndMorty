@@ -1,0 +1,14 @@
+.hero__logo {
+	width: 400px;
+}
+
+.hero__button {
+	width: 100%;
+	background-color: #97ce4c;
+	border-color: #97ce4c;
+}
+
+.hero__button:hover {
+	background-color: #878944;
+	border-color: #878944;
+}
