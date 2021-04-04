@@ -1,4 +1,4 @@
-# [Rick and Morty](https://varyamikh.github.io/MemTest/)
+
 
 
 ```
